@@ -5,7 +5,7 @@
 #### May.
 - Autonomous Teamed Exploration of Subterranean Environments using Legged and Aerial Robots. [[Paper](https://doi.org/10.1109/ICRA46639.2022.9812401)] [[Summary](https://github.com/Junghwan-Ro/Paper-Review/blob/main/Reviews/Autonomous%20Teamed%20Exploration%20of%20Subterranean%20Environments%20using%20Legged%20and%20Aerial%20Robots.md)]
   - *Mihir Kulkarni*. **ICRA 2022**
-  - 
+  
 #### April.
 - ROBOT-CENTRIC ELEVATION MAPPING WITH UNCERTAINTY ESTIMATES. [[Paper](https://doi.org/10.1142/9789814623353_0051)] [[Summary](https://github.com/Junghwan-Ro/Paper-Review/blob/main/Reviews/ROBOT-CENTRIC%20ELEVATION%20MAPPING%20WITH%20UNCERTAINTY%20ESTIMATES.md)]
   - *P. FANKHAUSER*. **Mobile Service Robotics 2014**
