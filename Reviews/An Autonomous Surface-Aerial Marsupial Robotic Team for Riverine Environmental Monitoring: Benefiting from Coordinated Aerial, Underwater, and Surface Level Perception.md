@@ -1,4 +1,6 @@
-# [Template]
+# [An Autonomous Surface-Aerial Marsupial Robotic Team for Riverine
+Environmental Monitoring: Benefiting from Coordinated Aerial,
+Underwater, and Surface Level Perception]
 ## Quick Look
 
 **Authors & Affiliation**:  
