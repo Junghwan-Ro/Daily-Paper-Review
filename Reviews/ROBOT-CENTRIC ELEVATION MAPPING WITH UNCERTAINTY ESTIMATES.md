@@ -3,6 +3,7 @@
 
 **Authors & Affiliation**:  
 [P. FANKHAUSER∗, M. BLOESCH, C. GEHRING, M. HUTTER and R. SIEGWART]
+
 [Autonomous Systems Lab, ETH Zurich]
 
 **Link** : [Paper link](https://doi.org/10.1142/9789814623353_0051)
