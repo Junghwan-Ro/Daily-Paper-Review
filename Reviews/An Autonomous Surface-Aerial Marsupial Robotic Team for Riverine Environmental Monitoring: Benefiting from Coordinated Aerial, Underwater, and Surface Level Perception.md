@@ -8,6 +8,7 @@
 **Link** : [[Paper link](https://doi.org/10.1109/ROBIO.2014.7090371)]
 
 **Comments:**  [Published at 2014 IEEE International Conference on Robotics and Biomimetics (ROBIO 2014)]
+
 **TLDR:** [This paper presents RIVERWATCH, an autonomous surface-aerial marsupial robotic team for riverine environmental monitoring, combining aerial, underwater, and surface-level perception.] 
 
 ## Research Topic
