@@ -7,65 +7,46 @@
 
 **Link** : [[Paper link](https://doi.org/10.1109/ROBIO.2014.7090371)]
 
-**Comments:**  [e.g. Published at X / arXiv paper/ in review.]
-
-**TLDR:** [One or at most two line summary.] 
+**Comments:**  [Published at 2014 IEEE International Conference on Robotics and Biomimetics (ROBIO 2014)]
+**TLDR:** [This paper presents RIVERWATCH, an autonomous surface-aerial marsupial robotic team for riverine environmental monitoring, combining aerial, underwater, and surface-level perception.] 
 
 ## Research Topic
-- Category (General) :
-- Category (Specific) :
+- Category (General) : Robotics
+- Category (Specific) : Marsupial Robotics Systems, Environmental Monitoring
 
 ## Paper summary (What)
-[Summary of the paper - a few sentences with bullet points. What did they do?]
+- The paper introduces RIVERWATCH, a marsupial robotic team consisting of an Autonomous Surface Vehicle (ASV) and an Unmanned Aerial Vehicle (UAV) for riverine environmental monitoring.
+- The system aims to benefit from the coordinated perception of aerial, underwater, and surface level sensors.
+- Field trials were conducted in a lake near Sesimbra, Portugal, to evaluate the system's performance in autonomous navigation, cooperative perception, and cooperative landing.
 
 ## Issues addressed by the paper (Why)
-[What are the issues that the paper addresses? Describe the problem. Why did they write this paper?]
+- The paper addresses the challenge of creating an autonomous robotic system capable of long-lasting operation and safe navigation in riverine environments for environmental monitoring purposes.
+- Combining surface and aerial robotic platforms can provide far field lookahead capabilities and improve monitoring efficiency.
 
 ## Detailed Information (How)
-[ Only for work that appears to be highly related from reading abstract/intro/conclusion.]
 
 ### Methodology
-
-[How did they approach the problem. What methods did they use? ]
-
-### Assumptions
-[What assumptions were made and are these assumptions valid?]
-
-### Prominent Formulas
-
-[Can be empty]
-
-### Prominent Figures
-[Can be empty]
+- The researchers developed an autonomous navigation system using cost maps generated from laser and sonar range data.
+- Cooperative perception was assessed by having the UAV take off from the ASV and fly over the desired ASV's path to gather sensory information for building a navigation cost map.
+- The cooperative landing system was evaluated through field experiments involving four independent runs.
 
 ### Results
-[Theoretical or empirical results (any main tables) ]
+- The ASV successfully navigated through predefined waypoints in different runs without any collisions.
+- The cooperative perception principle was successfully assessed, with the system using acquired aerial images to build a single cost map for the ASV.
+- The cooperative landing system was successful but showed limitations in harsh weather conditions.
 
 ### Limitations
-[Did the authors mention any limitations to their work? Do you see any limitations of their work?]
-
-### Confusing aspects of the paper
-[Is there anything that is confusing and could need better explanations or references?]
+- The cooperative landing system is insufficient for robust operation in harsh weather conditions.
+- The chaotic airflow near the ASV during cooperative landing may hamper a precisely centered arrival and departure at the docking station.
 
 ## Conclusions
 
 ### The author's conclusions
-[What are the authors conclusion? What do they claim about their results.]
-
-### My Conclusion
-[What do you think about the work presented in the article? Did the authors manage to achieve what they set out to achieve?]
+- The paper presents RIVERWATCH, an autonomous marsupial robotic system for riverine environmental monitoring that shows promising results in field trials.
+- The system can be further improved and adapted for other applications such as infrastructure inspection, search & rescue, and surveillance.
 
 ## Possible future work / improvements
-[Can you think of ways to improve this paper or ideas for future work?]
-
-## Relation to Own Work
-[If related to own work.]
-
-- What can we learn from their approach:
-- How are we different:
-
-## Extra
-- Cited references to follow up on / related papers:
-- Source code/ blog/ twitter thread/ other links:
+- Developing a smart fixture mechanism for safe docking and takeoff of the aerial platform.
+- Designing a protocol for using the RIVERWATCH platform in real monitoring missions.
 
 ---
