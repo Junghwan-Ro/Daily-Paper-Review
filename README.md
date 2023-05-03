@@ -5,8 +5,8 @@
 #### May.
 
 #### April.
-- Learning Disentangled Joint Continuous and Discrete Representations. [[Paper](https://arxiv.org/abs/1804.00104)] [[Summary](Summaries/Learning%20Disentangled%20Joint%20Continuous%20and%20Discrete%20Representations.md)]
-  - *Emilien Dupont*. **NIPS 2018**
+- An Autonomous Surface-Aerial Marsupial Robotic Team for Riverine Environmental Monitoring: Benefiting from Coordinated Aerial, Underwater, and Surface Level Perception. [[Paper](https://doi.org/10.1109/ROBIO.2014.7090371)] [[Summary](Reviews/An%Autonomous%Surface-Aerial%Marsupial%Robotic%Team%for%Riverine%Environmental%Monitoring:%Benefiting%from%Coordinated%Aerial,%Underwater,%and%Surface%Level%Perception.md)]
+  - *Eduardo Pinto*. **ROBIO 2014**
 
 #### March.
 
