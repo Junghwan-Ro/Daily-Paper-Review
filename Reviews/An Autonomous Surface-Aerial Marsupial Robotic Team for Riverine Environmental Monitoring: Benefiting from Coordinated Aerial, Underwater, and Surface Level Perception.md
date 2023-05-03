@@ -1,13 +1,11 @@
-# [An Autonomous Surface-Aerial Marsupial Robotic Team for Riverine
-Environmental Monitoring: Benefiting from Coordinated Aerial,
-Underwater, and Surface Level Perception]
+# [An Autonomous Surface-Aerial Marsupial Robotic Team for Riverine Environmental Monitoring: Benefiting from Coordinated Aerial, Underwater, and Surface Level Perception]
 ## Quick Look
 
 **Authors & Affiliation**:  
-[Authors]  
-[Affiliations]
+[Eduardo Pinto, Francisco Marques, Ricardo Mendonc¸a, Andre Lourenco, Pedro Santana, and Jose Barata]  
+[Instituto Universitario de Lisboa,  Universidade Nova de Lisboa]
 
-**Link** : [Paper link]
+**Link** : [[Paper link](https://doi.org/10.1109/ROBIO.2014.7090371)]
 
 **Comments:**  [e.g. Published at X / arXiv paper/ in review.]
 
