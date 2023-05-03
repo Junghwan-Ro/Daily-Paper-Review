@@ -2,14 +2,14 @@
 ## Quick Look
 
 **Authors & Affiliation**:  
-[Eduardo Pinto, Francisco Marques, Ricardo Mendonc¸a, Andre Lourenco, Pedro Santana, and Jose Barata]  
-[Instituto Universitario de Lisboa,  Universidade Nova de Lisboa]
+Eduardo Pinto, Francisco Marques, Ricardo Mendonc¸a, Andre Lourenco, Pedro Santana, and Jose Barata 
+Instituto Universitario de Lisboa,  Universidade Nova de Lisboa
 
-**Link** : [[Paper link](https://doi.org/10.1109/ROBIO.2014.7090371)]
+**Link** : [Paper link](https://doi.org/10.1109/ROBIO.2014.7090371)
 
-**Comments:**  [Published at 2014 IEEE International Conference on Robotics and Biomimetics (ROBIO 2014)]
+**Comments:**  Published at 2014 IEEE International Conference on Robotics and Biomimetics (ROBIO 2014)
 
-**TLDR:** [This paper presents RIVERWATCH, an autonomous surface-aerial marsupial robotic team for riverine environmental monitoring, combining aerial, underwater, and surface-level perception.] 
+**TLDR:** This paper presents RIVERWATCH, an autonomous surface-aerial marsupial robotic team for riverine environmental monitoring, combining aerial, underwater, and surface-level perception.
 
 ## Research Topic
 - Category (General) : Robotics
