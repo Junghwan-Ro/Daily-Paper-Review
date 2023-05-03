@@ -4,6 +4,7 @@
 
 **Authors & Affiliation**:  
 [Kulkarni, Mihir; Dharmadhikari, Mihir; Tranzatto, Marco; Zimmermann, Samuel; Reijgwart, Victor ; De Petris, Paolo; Nguyen, Huan; Khedekar, Nikhil; Papachristos, Christos; Ott, Lionel; Siegwart, Roland; Hutter, Marco ; Alexis, Kostas]
+
 [University of Nevada, ETH Zurich, NTNU]
 
 **Link** : [Paper link](https://doi.org/10.1109/ICRA46639.2022.9812401)
